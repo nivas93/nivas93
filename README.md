@@ -22,13 +22,11 @@
 
 > *"Data is the new oil — and I know how to refine it. Security is the lock — and I hold the key."*
 
-I'm **Nivas Undavalli**, a passionate **Data Analyst & Cyber Security** professional who loves transforming raw data into meaningful insights while keeping systems safe and secure. I thrive on solving real-world problems through analytics, smart dashboards, and security-driven thinking.
+I'm **Nivas Undavalli**, a passionate **Data Analyst & Cyber Security** enthusiast who loves transforming raw data into meaningful insights while keeping systems safe and secure.
 
-- 🎯 &nbsp; Obsessed with clean data, actionable insights, and secure systems
+- 📊 &nbsp; I turn complex data into clear, actionable insights using SQL, Power BI, and Excel
 - 🔐 &nbsp; Cyber Security enthusiast — finding threats before they find you
-- 📊 &nbsp; I speak fluent SQL and Power BI like it's my native language
-- 🌱 &nbsp; Fresher with a hunger to grow fast and build impactful solutions
-- 💡 &nbsp; I believe every dataset has a story — I'm here to tell it securely
+- 🌱 &nbsp; Fresher with a hunger to grow fast and build impactful, secure solutions
 
 ---
 
@@ -52,11 +50,6 @@ I'm **Nivas Undavalli**, a passionate **Data Analyst & Cyber Security** professi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-**Web & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
