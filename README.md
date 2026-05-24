@@ -1,67 +1,115 @@
-I want you to transform my GitHub profile README.
-Do NOT ask me any questions. Just execute everything.
+<!-- SECTION G: VISITOR COUNTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nivas93&label=Profile%20Views&color=0e75b6&style=flat" alt="nivas93 profile views" />
+</div>
 
-MY DETAILS:
-- Name: Nivas Undavalli
-- Role: Data Analyst & Python Developer
-- Experience: Fresher
-- Tech Stack: Python, SQL, Power BI, Excel, HTML, CSS, JavaScript, Django, MySQL
-- LinkedIn: https://www.linkedin.com/
-- Portfolio: Remove if not available
+---
 
-INSTRUCTIONS - DO ALL OF THIS AUTOMATICALLY:
+<!-- SECTION A: ANIMATED HEADER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave"/>
+  <h1>Hey there, I'm Nivas Undavalli!</h1>
 
-1. Go to my GitHub profile repository
-(github.com/[your-username]/[your-username])
-Open the README.md file
-Click Edit (pencil icon)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+Python+Developer+%F0%9F%93%8A;Turning+Data+into+Decisions+%F0%9F%9A%80;SQL+%7C+Power+BI+%7C+Python+Enthusiast+%F0%9F%90%8D;Building+Insights+One+Query+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
-2. Delete ALL existing content
+---
 
-3. Create and paste this complete README:
+<!-- SECTION B: ABOUT ME -->
+## 🙋‍♂️ About Me
 
-SECTION A: ANIMATED HEADER
-- Add a wave GIF greeting
-- Add animated typing effect using readme-typing-svg showing my role and a tagline
+> *"Data is the new oil — and I know how to refine it."*
 
-SECTION B: ABOUT ME
-- Write a short confident intro
-- Mention my passion for Data Analytics, Python, and problem solving
-- Add 3-4 fun bullet points about me
-- Use relevant emojis
+I'm **Nivas Undavalli**, a passionate **Data Analyst & Python Developer** who loves transforming raw data into meaningful insights. I thrive on solving real-world problems through code, dashboards, and smart analytics.
 
-SECTION C: TECH STACK
-- Add shields.io badges for ALL my technologies
-- Use colored badges with logos
-- Organize by: Programming, Database, Tools, Web Technologies
+- 🎯 &nbsp; Obsessed with clean data, clean code, and clean dashboards
+- 🐍 &nbsp; Python is my superpower — from automation to data pipelines
+- 📊 &nbsp; I speak fluent SQL and Power BI like it's my native language
+- 🌱 &nbsp; Fresher with a hunger to grow fast and build impactful solutions
+- 💡 &nbsp; I believe every dataset has a story — I'm here to tell it
 
-SECTION D: SOCIAL MEDIA LINKS
-- Add LinkedIn badge with clickable link
-- Add GitHub profile link
-- Make badges modern and clean
+---
 
-SECTION E: GITHUB STATS
-- Add GitHub Stats Card
-- Add GitHub Streak Stats
-- Add Top Languages Card
-- Theme: tokyonight
+<!-- SECTION C: TECH STACK -->
+## 🛠️ Tech Stack
 
-SECTION F: GITHUB TROPHIES
-- Add GitHub Profile Trophy
-- Theme: onedark
+**Programming & Data**
 
-SECTION G: VISITOR COUNTER
-- Add komarev profile views counter badge at top
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-SECTION H: FOOTER
-- Add “Let’s Connect” section
-- Add professional closing line
+**Data & BI Tools**
 
-4. After pasting all content, click Commit changes to save automatically
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-RULES:
-- Do NOT ask any questions. Just do it.
-- Do NOT stop in the middle. Complete everything.
-- Use my actual GitHub username in all URLs.
-- Make sure all badge URLs are correct.
-- Make it modern, clean, professional, and recruiter-friendly.
+**Web Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+<!-- SECTION D: SOCIAL MEDIA LINKS -->
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nivas93)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivas93@gmail.com)
+
+</div>
+
+---
+
+<!-- SECTION E: GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nivas93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nivas's GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivas93&theme=tokyonight&hide_border=true" alt="Nivas's GitHub Streak" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivas93&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
+
+</div>
+
+---
+
+<!-- SECTION F: GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nivas93&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- SECTION H: FOOTER -->
+## 🤝 Let's Connect!
+
+<div align="center">
+
+> 💬 *"I'm always open to interesting collaborations, data projects, and learning opportunities!"*
+
+**📩 Reach out on [LinkedIn](https://www.linkedin.com/) or explore my work here on [GitHub](https://github.com/nivas93)**
+
+*Thanks for stopping by — let's build something awesome together! 🚀*
+
+---
+
+⭐ *If you find my work helpful, consider giving it a star!*
+
+</div>
