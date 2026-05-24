@@ -11,7 +11,7 @@
   <h1>Hey there, I'm Nivas Undavalli!</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+Python+Developer+%F0%9F%93%8A;Turning+Data+into+Decisions+%F0%9F%9A%80;SQL+%7C+Power+BI+%7C+Python+Enthusiast+%F0%9F%90%8D;Building+Insights+One+Query+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%26+Cyber+Security+Enthusiast+%F0%9F%94%90;Turning+Data+into+Decisions+%F0%9F%93%8A;SQL+%7C+Power+BI+%7C+Python+%F0%9F%90%8D;Protecting+Systems%2C+Analyzing+Data+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,15 +20,15 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-> *"Data is the new oil — and I know how to refine it."*
+> *"Data is the new oil — and I know how to refine it. Security is the lock — and I hold the key."*
 
-I'm **Nivas Undavalli**, a passionate **Data Analyst & Python Developer** who loves transforming raw data into meaningful insights. I thrive on solving real-world problems through code, dashboards, and smart analytics.
+I'm **Nivas Undavalli**, a passionate **Data Analyst & Cyber Security** professional who loves transforming raw data into meaningful insights while keeping systems safe and secure. I thrive on solving real-world problems through analytics, smart dashboards, and security-driven thinking.
 
-- 🎯 &nbsp; Obsessed with clean data, clean code, and clean dashboards
-- 🐍 &nbsp; Python is my superpower — from automation to data pipelines
+- 🎯 &nbsp; Obsessed with clean data, actionable insights, and secure systems
+- 🔐 &nbsp; Cyber Security enthusiast — finding threats before they find you
 - 📊 &nbsp; I speak fluent SQL and Power BI like it's my native language
 - 🌱 &nbsp; Fresher with a hunger to grow fast and build impactful solutions
-- 💡 &nbsp; I believe every dataset has a story — I'm here to tell it
+- 💡 &nbsp; I believe every dataset has a story — I'm here to tell it securely
 
 ---
 
@@ -46,10 +46,15 @@ I'm **Nivas Undavalli**, a passionate **Data Analyst & Python Developer** who lo
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Web Technologies**
+**Cyber Security**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+**Web & Frameworks**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
@@ -102,7 +107,7 @@ I'm **Nivas Undavalli**, a passionate **Data Analyst & Python Developer** who lo
 
 <div align="center">
 
-> 💬 *"I'm always open to interesting collaborations, data projects, and learning opportunities!"*
+> 💬 *"I'm always open to interesting collaborations, data projects, and cyber security opportunities!"*
 
 **📩 Reach out on [LinkedIn](https://www.linkedin.com/) or explore my work here on [GitHub](https://github.com/nivas93)**
 
